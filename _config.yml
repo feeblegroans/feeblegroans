@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# "I am feeble and utterly crushed; I groan in anguish of heart."
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -21,10 +21,10 @@
 title: Feeble Groans
 email: feeblegroans@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  On writing.
+  Melodramatic, nonprescriptive musings on writing.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: feeblegroans
+url: "" # the base hostname & protocol for your site, e.g. http://www.feeblegroans.com
+twitter_username: fgroans
 github_username:  feeblegroans
 
 # Build settings
