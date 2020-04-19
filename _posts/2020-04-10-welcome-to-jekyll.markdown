@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Sam -- I sort of built a blog using Jekyll. I am a computer hacker now"
+title:  "Hi Sam - welcome to the most exciting place on the internet"
+! [initial f](/assets/initial f.jpg)
 date:   2020-04-10 10:27:36 -0600
 categories: jekyll update
 ---
